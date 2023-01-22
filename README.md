@@ -1,4 +1,4 @@
-# Week-1-challenge
+# Horisean website 
 Here you will find week 1 challenge. I was given a starter code to modify to specific criteria. 
 
 Deployed application link: https://sofiasosa92.github.io/Week-1-challenge/ 
